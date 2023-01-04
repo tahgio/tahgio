@@ -1,4 +1,10 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/99019446/210465058-c88c58b6-9fc4-4c2d-9f13-a406e37b8ac0.png" alt="my banner" >
+
+### About Me! :man_astronaut:
+### Stack
+#### Proficient
+#### Learning
+
 
 <!--
 **tahgio/tahgio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
